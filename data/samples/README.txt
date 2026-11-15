@@ -1,0 +1,1 @@
+Run `python scripts/generate_demo_data.py` from the project root to generate customer_churn_demo.csv in this folder.
