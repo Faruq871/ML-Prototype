@@ -1,6 +1,6 @@
-# ML Workbench — Tabular Machine Learning Platform
+# ML Prototype
 
-A modular Python application that turns the original **60 Machine Learning Algorithms Guidebook** into an interactive tabular experimentation workflow.
+A modular Python application that turns the original **60 ML** into an interactive tabular experimentation workflow.
 
 ## What this repository contains
 
